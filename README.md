@@ -4,6 +4,6 @@ https://github.com/Samuel12209/Chat-Bot
 *cough*
 and i also wanted to imrprove it so i am going to use the open source gpt-2 to
 help me do it!
-#this is my progress through learning how to use gpt-2 and integrating it with my own code
+# This is my progress through learning how to use gpt-2 and integrating it with my own code
 
 Gpt-2 open source: https://github.com/openai/gpt-2
