@@ -15,5 +15,5 @@ and i also wanted to imrprove it so i am going to use the open source Godel to d
 
 # Restraints
 With an avarage pc, most people cant run this as it would take quite a while so i am going to split up the data into diffrent segments,
-you can use the main brain file if you have a strong enough pc but i reccomend using a split peice of the brain
+you can use the main data file if you have a strong enough pc but i reccomend using a split peice of the data,
 the bigger amount of the file is the more accurate its responses will be
