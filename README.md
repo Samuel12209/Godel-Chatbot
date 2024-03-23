@@ -6,6 +6,9 @@ Hello there, i wanted to make a v.2 of my chatbot
 *cough*
 
 and i also wanted to imrprove it so i am going to use the open source Godel to do it
+# Where to get data
+[You can get it right here!](https://openaipublic.azureedge.net/gpt-2/output-dataset/v1/small-117M.train.jsonl)
+
 
 # Godel
 [Godel](https://huggingface.co/microsoft/GODEL-v1_1-large-seq2seq)
