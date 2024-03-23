@@ -1,4 +1,4 @@
-# Godel Chatbot| Status: NON FUNCTIONAL
+# Godel Chatbot| Status: Functional!
 Hello there, i wanted to make a v.2 of my chatbot 
 
 [Chatbot](https://github.com/Samuel12209/Chat-Bot)
